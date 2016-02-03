@@ -1,3 +1,4 @@
 {
-  "name": "geodesy"
+  "name": "geodesy",
+  "main": "npm.d.ts"
 }

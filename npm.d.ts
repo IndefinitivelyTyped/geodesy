@@ -1,1 +1,5 @@
-export import * as LatLonSpherical from './latlon-spherical'
+import * as LatLonSpherical from './latlon-spherical'
+
+export {
+  LatLonSpherical
+}

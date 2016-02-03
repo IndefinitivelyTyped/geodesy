@@ -1,4 +1,4 @@
-import * as LatLonSpherical from './latlon-spherical'
+import LatLonSpherical = require('./latlon-spherical')
 
 export {
   LatLonSpherical
